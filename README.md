@@ -22,7 +22,7 @@
 
 不使用第三方库，直接OCR技术扫描。这个技术我正在考虑当中，有兴趣的可以添加我的微信交流：
 
-![](E:\EclipseProject\PdfTool\image\微信号最新.jpg)
+fdd15735171890
 
 ## 本工具特点：
 
@@ -74,4 +74,4 @@
 
 喜欢的给个支持吧各位老铁们：
 
-![](E:\EclipseProject\PdfTool\image\公众号.jpg)
+![image](https://upload-images.jianshu.io/upload_images/4153190-eafb1a4a904b36ae.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/800/format/webp)
