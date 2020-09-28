@@ -15,11 +15,11 @@ public class MergeWordDocument {
 		for(int i=1;i<fs.length;i++) {
 			 document.insertTextFromFile(docPath+"test"+i+".docx",FileFormat.Docx_2013);
 		}
-		//第四步：对合并的doc进行保存2
+		//绗洓姝ワ細瀵瑰悎骞剁殑doc杩涜淇濆瓨2
 		document.saveToFile(desPath);
 		return true;       
     }
-	// 取得某一路径下所有的pdf
+	// 鍙栧緱鏌愪竴璺緞涓嬫墍鏈夌殑pdf
 	private static File[] getSplitFiles(String path) {
 		File f = new File(path);
 		File[] fs = f.listFiles();
