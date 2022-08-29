@@ -3,8 +3,8 @@ import java.io.File;
 
 public class Main {
 	public static void main(String[] args) {
-		
-		String res = new PdfToWord().pdftoword("K:\\面试\\面试题\\Java 虚拟机面试题全面解析.pdf");
+		//aa
+		String res = new PdfToWord().pdftoword("K:\\闈㈣瘯\\闈㈣瘯棰榎\Java 铏氭嫙鏈洪潰璇曢鍏ㄩ潰瑙ｆ瀽.pdf");
 		System.out.println(res);
 	}
 	
